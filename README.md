@@ -8,6 +8,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [NextJS](https://nextjs.org)
 
+O projeto está disponível em:
+
+- [https://moveit-ap0l1js.vercel.app/](https://moveit-ap0l1js.vercel.app)
+
 <p align="center">
   <img alt="screen" src="./public/screen.png" width="100%">
 </p>
