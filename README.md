@@ -29,8 +29,8 @@ Para executar esse repositório baixe-o para sua maquina ou faça um `Git Clone`
 ### Frontend | Web
 
 - abra o projecto na Shell (No windows Power Shell em modo administrador). 
-- `$ npm install` esse comando ira instalar todos os módulos necessários ao React
--  `$ npm dev` Ira iniciar o servidor na porta `localhost:3000\` 
+- `$ yarn install` esse comando ira instalar todos os módulos necessários ao React
+-  `$ yarn dev` Ira iniciar o servidor na porta `localhost:3000\` 
 
 
 Feito com ♥ by Apolinário Manuel
